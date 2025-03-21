@@ -14,7 +14,7 @@ public class SetHeterogeneo {
     @SuppressWarnings({"rawtypes","unchecked"})
     public static void main(String[] args) {
         // Conjunto = HashSet
-        HashSet conjunto = new HashSet();
+        HashSet conjunto = new HashSet ();
 
         conjunto.add(1.2); // double -> Double
         conjunto.add(true); // boolean -> Boolean
