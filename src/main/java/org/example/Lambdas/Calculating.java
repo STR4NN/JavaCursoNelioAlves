@@ -6,7 +6,7 @@ public class Calculating {
         Calculated multiplicar = new Multiply();
 
         System.out.println(soma.executar(2,3));
-
         System.out.println(soma.executar(2,3));
+
     }
 }
