@@ -12,4 +12,13 @@ public class Product extends Object {
         this.preco = preco;
         this.desconto = disconto;
     }
+
+    @Override
+    public String toString() {
+        return "Product{" +
+                "nome='" + nome + '\'' +
+                ", preco=" + preco +
+                ", desconto=" + desconto +
+                '}';
+    }
 }
