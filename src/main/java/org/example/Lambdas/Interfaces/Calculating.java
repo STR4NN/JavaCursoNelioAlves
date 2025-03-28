@@ -1,4 +1,4 @@
-package org.example.Lambdas;
+package org.example.Lambdas.Interfaces;
 
 public class Calculating {
     public static void main(String[] args) {

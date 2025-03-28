@@ -1,4 +1,4 @@
-package org.example.Lambdas;
+package org.example.Lambdas.Interfaces;
 
 public class Sum implements Calculated
 {

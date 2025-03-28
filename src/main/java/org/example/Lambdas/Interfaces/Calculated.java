@@ -1,4 +1,4 @@
-package org.example.Lambdas;
+package org.example.Lambdas.Interfaces;
 
 // Quando a interface criada só possui um unico metodo.
 // Só Atraves das Interfaces funcionais que é possivel criar LAMBDAS ou INTERFCES FUNCIONAIS.
