@@ -13,6 +13,14 @@ public class Calculating2 {
         Calculated soma = (x,y) -> {return x + y;};
         System.out.println(soma.executar(2,3));
 
+        Calculated somando = (a, b) -> {
+          double valor;
+          valor = a + b;
+            System.out.println(valor);
+          return valor;
+            };
+
+
         soma = (x,y) -> x * y;
         System.out.println(soma.executar(2,3));
 
